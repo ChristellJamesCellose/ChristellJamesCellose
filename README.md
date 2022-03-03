@@ -1,15 +1,29 @@
 # ChristellJamesCellose
-# Halo semua! 
+# Hi Everyone! 
 
-Perkenalkan nama saya **Christell James Cellose**.
+My Name is **Christell James Cellose**, I love Machine Learning & Data Science :snake:. 
 
-Saya adalah seorang **Machine Learning Student** di [Bangkit Academy](https://grow.google/intl/id_id/bangkit/).
+<!--
+**christelljamescellose/christelljamescellose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/christell-james-cellose/)ku ya.
+Here are some ideas to get you started:
 
-<p align="left">
-<a href="https://github.com/ChristellJamesCellose">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ChristellJamesCellose&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ChristellJamesCellose&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on Machine Learning & Data Science Projects.
+- 🌱 I’m currently learning Machine Learning & Data Science at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)
+
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/ChristellJamesCellose"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/christell-james-cellose/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
