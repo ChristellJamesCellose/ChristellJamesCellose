@@ -1,6 +1,7 @@
-# Hi Folks! 
+## Hi there 👋 I'm Christell James Cellose,
 
-My Name is **Christell James Cellose**, I love Machine Learning & Data Science :snake:. 
+An Undergraduate student who passionate about Machine Learning & Data Science :bar_chart:. I like automating things, to do research also experiment as well as provide insights through data to solve problems. Passionate in working with a progressive and cooperative team.
+
 
 <!--
 **christelljamescellose/christelljamescellose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +19,18 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on Machine Learning & Data Science Projects.
+- :bulb: I'm interested in all data things: **Big Data, Machine Learning, and Data Science**
 - 🌱 I’m currently learning Machine Learning & Data Science at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)
+- 👯 I’m looking to collaborate on Machine Learning & Data Science Projects.
 
+### My skills include
+<p align="center">
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="55" height="50" />
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
+  <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" />
+</p>
+  
 ### Let's Connect :coffee:
-![Linkedin Badge](https://img.shields.io/badge/-ChristellJamesCellose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christell-james-cellose)
-![Gmail Badge](https://img.shields.io/badge/-ChristellJamesCellose-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:christeljamescellose@gmail.com)
-
-
+<a target="_blank" href="https://www.linkedin.com/in/christell-james-cellose"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:christeljamescellose@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
