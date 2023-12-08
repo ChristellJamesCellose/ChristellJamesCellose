@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact:
-- :bulb: I'm interested in all data things: **Big Data, Machine Learning, and Data Science**
+- 🔭 I'm interested in all data things: **Big Data, Machine Learning, and Data Science**
 - 🌱 I’m currently learning Machine Learning & Data Science at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)
 - 👯 I’m looking to collaborate on Machine Learning & Data Science Projects.
 
