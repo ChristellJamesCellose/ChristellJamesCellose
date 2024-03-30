@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Christell James Cellose,
 
-An Undergraduate student who passionate about Machine Learning & Data Science :bar_chart:. I like automating things, to do research also experiment as well as provide insights through data to solve problems. Passionate in working with a progressive and cooperative team.
+Individual who passionate about Machine Learning & Data Science :bar_chart:. I like automating things, to do research also experiment as well as provide insights through data to solve problems. Passionate in working with a progressive and cooperative team.
 
 
 <!--
