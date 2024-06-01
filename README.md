@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="55" height="50" />
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
   <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-  <img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" />
+  <img title="Docker" alt="Docker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftypemill.net%2Fnews%2Fversion-1-5-3-3-docker-and-more&psig=AOvVaw1g8dS_NlRqUC_TYjLdRipD&ust=1717333868080000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiYxK69uoYDFQAAAAAdAAAAABAE" width="55" />
   <img title="Google Cloud" alt="linux" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="55" />
 </p>
   
