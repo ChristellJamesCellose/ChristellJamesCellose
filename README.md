@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Christell James Cellose,
 
-Individual who passionate about Machine Learning & Data Science :bar_chart:. I like automating things, to do research also experiment as well as provide insights through data to solve problems. Passionate in working with a progressive and cooperative team.
+Individual who passionate about Data Analytics, Machine Learning, Data Engineer :bar_chart:. I like automating things, to do research also experiment as well as provide insights through data to solve problems. Passionate in working with a progressive and cooperative team.
 
 
 <!--
@@ -19,17 +19,20 @@ Here are some ideas to get you started:
 -->
 
 ⚡ Fun fact:
-- 🔭 I'm interested in all data things: **Big Data, Machine Learning, and Data Science**
+- 🔭 I'm interested in all data things: **Data Analytics, Machine Learning, and Data Engineering**
 - 🌱 I’m currently learning Machine Learning & Data Science at [Bangkit Academy](https://grow.google/intl/id_id/bangkit/)
-- 👯 I’m looking to collaborate on Machine Learning & Data Science Projects.
+- 👯 I’m looking to collaborate on End-to-End Data Analytics Projects.
 
 ### My skills include
 <p align="center">
   <img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="55" height="50" />
   <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" />
   <img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" />
-  <img title="Docker" alt="Docker" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftypemill.net%2Fnews%2Fversion-1-5-3-3-docker-and-more&psig=AOvVaw1g8dS_NlRqUC_TYjLdRipD&ust=1717333868080000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOiYxK69uoYDFQAAAAAdAAAAABAE" width="55" />
+  <img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" />
   <img title="Google Cloud" alt="linux" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" width="55" />
+  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
+	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
+	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
 </p>
   
 ### Let's Connect :coffee:
